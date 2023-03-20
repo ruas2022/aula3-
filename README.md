@@ -3,7 +3,7 @@
 
 * Mercurial
 
-* GitHub
+* GitLab
 
 * Subversion
 
